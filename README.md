@@ -18,9 +18,6 @@ This project simulates a secure encrypted chat session between two Kali Linux vi
 - Verified secure communication using SSL.
 - Captured screenshots as proof of implementation.
 
-## 📸 Screenshot
-
-![Chat Screenshot](./screenshots/chat-screenshot.png)
 
 ## 📂 Commands Used
 
