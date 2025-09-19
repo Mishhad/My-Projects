@@ -1,4 +1,4 @@
-# Public WiFi Sniffer Detector
+# Public WiFi Sniffer Risk Detector
 
 This project detects whether a public WiFi network is being sniffed or monitored by identifying suspicious network activity. It uses packet capturing and analysis techniques to alert the user when unusual behavior is detected.
 
