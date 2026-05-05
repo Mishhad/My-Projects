@@ -53,10 +53,6 @@ This project demonstrates the design and implementation of a small enterprise ne
 
 This project simulates how enterprise networks separate departments using VLANs while allowing controlled communication via routing.
 
-## 📷 Screenshots
-
-(Add your screenshots here)
-
 ## 📁 Files
 
 * enterprise-network-design.pkt
