@@ -78,19 +78,6 @@ http://192.168.X.X/zabbix
 
 ---
 
-## 📷 Screenshots
-
-### Ubuntu Server
-![Ubuntu Server](Screenshot-1.png)
-
-### Zabbix Dashboard
-![Dashboard](Screenshot-2.png)
-
-### Monitoring Status
-![Monitoring](Screenshot-3.png)
-
----
-
 ## ✅ Skills Learned
 
 - Linux server setup
